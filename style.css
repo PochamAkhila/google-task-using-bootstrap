@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.image-1{
+    border-radius: 50%;
+}
+.search-wrapper{
+    height: 50px;
+    width:40%;
+    border-radius: 30px;
+    border: 1px solid #dfe1e5;
+}
+.wrapper{
+    margin-top: 100px;
+}
+.icon-g {
+    width: 35px;
+    height: 20px;
+    top: 70%;
+    right: 38%;
+}
+.icon-s {
+    width: 20px;
+    height: 20px;
+    top: 70%;
+    left: 35%;
+}
+.icon-img {
+    width: 22px;
+    height: 20px;
+    left: 63%;
+    top: 69%;
+}
+.right{
+    margin-left: 83%;
+}
+.color{
+    background-color: #dadce0;
+}
